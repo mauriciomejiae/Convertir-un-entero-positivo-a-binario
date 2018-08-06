@@ -1,0 +1,6 @@
+C:\Users\Mauricio M\Downloads\Convertir un entero positivo a binario\Convertir un entero positivo a binario\bin\Debug\Convertir un entero positivo a binario.exe.config
+C:\Users\Mauricio M\Downloads\Convertir un entero positivo a binario\Convertir un entero positivo a binario\bin\Debug\Convertir un entero positivo a binario.exe
+C:\Users\Mauricio M\Downloads\Convertir un entero positivo a binario\Convertir un entero positivo a binario\bin\Debug\Convertir un entero positivo a binario.pdb
+C:\Users\Mauricio M\Downloads\Convertir un entero positivo a binario\Convertir un entero positivo a binario\obj\Debug\Convertir un entero positivo a binario.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\Convertir un entero positivo a binario\Convertir un entero positivo a binario\obj\Debug\Convertir un entero positivo a binario.exe
+C:\Users\Mauricio M\Downloads\Convertir un entero positivo a binario\Convertir un entero positivo a binario\obj\Debug\Convertir un entero positivo a binario.pdb
